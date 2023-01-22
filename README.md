@@ -20,7 +20,7 @@ This project has a Makefile that helps the users to deploy the application:
 make deploy
 ```
 
-The ownwer of this project encourage everbody to take a look to Makefile and see the calls developed.
+The owner of this project encourage everbody to take a look to Makefile and see the calls developed.
 
 ### Deleting the resources
 
