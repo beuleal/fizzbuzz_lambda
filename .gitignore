@@ -1,0 +1,5 @@
+*.zip
+tf.out
+*.tfstate
+*.tfstate.backup
+iac/.terraform
